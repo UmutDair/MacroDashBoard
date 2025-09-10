@@ -1,4 +1,7 @@
-streamlit==1.24.0
+streamlit==1.28.1
 pandas==2.0.3
 plotly==5.15.0
 fredapi==0.5.1
+pillow==9.4.0
+numpy==1.24.3
+
